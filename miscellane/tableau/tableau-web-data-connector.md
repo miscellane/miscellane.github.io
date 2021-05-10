@@ -53,7 +53,7 @@ In this example, each data source is read  by its own Tableau Web Data Connector
 
 The data sets are joined, via a common key, prior to drawing the graphs illustrated below.
 
-<div style="margin-left: 35px">
+<div style="margin-left: 70px">
   <div class='tableauPlaceholder' id='viz1605126180958' style='position: relative'>
     <noscript><a href='#'><img alt=' ' src='https://public.tableau.com/static/images/ca/capita_16051250435120/capita_twb/1_rss.png' style='border: none' /></a>
     </noscript>
@@ -77,7 +77,7 @@ The data sets are joined, via a common key, prior to drawing the graphs illustra
   <script type='text/javascript'>
       var divElement = document.getElementById('viz1605126180958');
       var vizElement = divElement.getElementsByTagName('object')[0];
-      vizElement.style.width='500px';vizElement.style.height='627px';
+      vizElement.style.width='550px';vizElement.style.height='627px';
       var scriptElement = document.createElement('script');
       scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
       vizElement.parentNode.insertBefore(scriptElement, vizElement);
