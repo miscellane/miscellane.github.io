@@ -23,18 +23,26 @@ custom_js:
 ---
 
 
-## Connectors
+### Connectors
 
 <a href="https://tableau.github.io/webdataconnector/" target="\_blank">Tableau Web Data Connectors</a> enable web data source connections, specifically JSON data sources.  The example discussed herein reads JSON data files hosted by GitHub.
 
-### Example
+<br>
+
+#### Example
 
 Imagine a task wherein we have to illustrate the daily
 
-* $\small{deaths_{c}/100K}$ $vs.$ $\small{positives_{c}/100K}$
-* $\small{postives_{c}/100K}$ $vs$ $\small{tests_{c}/100K}$
+<ul style="margin-left: 35px">
+  <li>$\small{\frac{deaths_{c}}{100K}}$ $vs.$ $\small{\frac{positives_{c}}{100K}}$</li>
+  <li>$\small{\frac{postives_{c}}{100K}}$ $vs$ $\small{\frac{tests_{c}}{100K}}$</li>
+</ul>
 
-in relation to <span class="tooltip">SARS-CoV-2<span class="tooltiptext">Severe Acute Respiratory Syndrome Coronavirus 2</span></span> infections in the states of the U.S.A.; [C] denotes cumulative.  [In well managed settings, the time varying gradients of these graphs, and forecasts of them, will be quite helpful]
+wherein
+
+<div style="margin-left: 35px">$\small{C}$: cumulative</div>
+
+in relation to <span class="tooltip">SARS-CoV-2<span class="tooltiptext">Severe Acute Respiratory Syndrome Coronavirus 2</span></span> infections in the states of the U.S.A..  [In well managed settings, the time varying gradients of the ensuing curves, and the forecasts of such curves, could be quite helpful.]
 
 We might opt for 2 graph data sources
 
@@ -45,7 +53,7 @@ In this example, each data source is read  by its own Tableau Web Data Connector
 
 The data sets are joined, via a common key, prior to drawing the graphs illustrated below.
 
-<div>
+<div style="margin-left: 35px">
   <div class='tableauPlaceholder' id='viz1605126180958' style='position: relative'>
     <noscript><a href='#'><img alt=' ' src='https://public.tableau.com/static/images/ca/capita_16051250435120/capita_twb/1_rss.png' style='border: none' /></a>
     </noscript>
@@ -76,7 +84,9 @@ The data sets are joined, via a common key, prior to drawing the graphs illustra
   </script>
 </div>
 
+<br>
+<br>
 
-## Limitations of Tableau Web Data Connectors
+### Limitations of Tableau Web Data Connectors
 
 Alas, the tools required for automatically updating Tableau graphs based on Tableau web data connector feeds are only available via Tableau Online or Tableau Server; Tableau Public projects can't be updated automatically.
