@@ -8,5 +8,5 @@ permalink: /miscellane/tableau
 
 # Tableau
 
-Complementary Tableau tools.
+Complementary Tableau Tools
 {: .fs-6 .fw-300 }
