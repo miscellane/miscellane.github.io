@@ -34,20 +34,23 @@ custom_js:
 Imagine a task wherein we have to illustrate the daily
 
 <ul style="margin-left: 35px">
-  <li>$\large{\frac{deaths_{c}}{100K}}$ $vs.$ $\large{\frac{positives_{c}}{100K}}$</li>
-  <li>$\large{\frac{postives_{c}}{100K}}$ $vs$ $\large{\frac{tests_{c}}{100K}}$</li>
+  <li style="margin-bottom: 10px">$\large{deaths_{c}/100K}$ $vs.$ $\large{positives_{c}/100K}$</li>
+  <li>$\large{positives_{c}/100K}$ $vs.$ $\large{tests_{c}/100K}$</li>
 </ul>
 
 wherein
 
-<div style="margin-left: 35px">$\small{C}$: cumulative</div>
+<div style="margin-left: 35px">$c$: cumulative</div>
 
 in relation to <span class="tooltip">SARS-CoV-2<span class="tooltiptext">Severe Acute Respiratory Syndrome Coronavirus 2</span></span> infections in the states of the U.S.A..  [In well managed settings, the time varying gradients of the ensuing curves, and the forecasts of such curves, could be quite helpful.]
 
 We might opt for 2 graph data sources
 
-* [capita.json](https://raw.githubusercontent.com/briefings/sars/master/fundamentals/atlantic/warehouse/capita.json) A source that summarises each day's rate values per state.
-* [gazetteer.json](https://raw.githubusercontent.com/briefings/sars/master/fundamentals/atlantic/warehouse/gazetteer.json) a gazetteer file, i.e., a file that summarises geographic, etc., facts of each state
+<ul style="margin-left: 35px">
+  <li><a href="https://raw.githubusercontent.com/briefings/sars/master/fundamentals/atlantic/warehouse/capita.json" target="\_blank">capita.json</a> A source that summarises each day's rate values per state.</li>
+  <li><a href="https://raw.githubusercontent.com/briefings/sars/master/fundamentals/atlantic/warehouse/gazetteer.json">gazetteer.json</a> a gazetteer file, i.e., a file that summarises geographic, etc., facts of each state.</li>
+</ul>
+
 
 In this example, each data source is read  by its own Tableau Web Data Connector.  In brief.  The data source [capita.json](https://raw.githubusercontent.com/briefings/sars/master/fundamentals/atlantic/warehouse/capita.json) is read by a connector named [capita.html](https://github.com/miscellane/tableau/blob/master/pages/capita.html), which reads the source via script file [capita.js](https://github.com/miscellane/tableau/blob/master/pages/gazetteer.html); the schema of capita.json is detailed in capita.js.  And,  data source [gazetteer.json](https://raw.githubusercontent.com/briefings/sars/master/fundamentals/atlantic/warehouse/gazetteer.json) is read by a connector named [gazetteer.html](https://github.com/miscellane/tableau/blob/master/pages/gazetteer.html), which reads the source via script file [gazetteer.js](https://github.com/miscellane/tableau/blob/master/assets/js/gazetteer.js); the schema of gazetteer.json is detailed in gazetteer.js.  
 
