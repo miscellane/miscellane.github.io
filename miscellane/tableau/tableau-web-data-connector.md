@@ -22,7 +22,6 @@ custom_js:
 
 ---
 
-<br>
 
 ### Connectors
 
@@ -30,7 +29,7 @@ custom_js:
 
 <br>
 
-#### Example
+#### **Example**
 
 Imagine a task wherein we have to illustrate the daily
 
