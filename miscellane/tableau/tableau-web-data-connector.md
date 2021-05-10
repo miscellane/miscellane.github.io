@@ -34,8 +34,8 @@ custom_js:
 Imagine a task wherein we have to illustrate the daily
 
 <ul style="margin-left: 35px">
-  <li>${\frac{deaths_{c}}{100K}}$ $vs.$ ${\frac{positives_{c}}{100K}}$</li>
-  <li>${\frac{postives_{c}}{100K}}$ $vs$ ${\frac{tests_{c}}{100K}}$</li>
+  <li>$\large{\frac{deaths_{c}}{100K}}$ $vs.$ $\large{\frac{positives_{c}}{100K}}$</li>
+  <li>$\large{\frac{postives_{c}}{100K}}$ $vs$ $\large{\frac{tests_{c}}{100K}}$</li>
 </ul>
 
 wherein
