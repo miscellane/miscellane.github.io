@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Background
-parent: Tableau Web Data Connector
+title: Tableau Web Data Connector
+parent: Tableau
 nav_order: 1
 custom_css:
 - tooltips
