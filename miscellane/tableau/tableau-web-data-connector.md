@@ -28,6 +28,8 @@ custom_js:
 
 <a href="https://tableau.github.io/webdataconnector/" target="\_blank">Tableau Web Data Connectors</a> enable web data source connections, specifically JSON data sources.  The example discussed herein reads JSON data files hosted by GitHub.
 
+<br>
+
 #### Example
 
 Imagine a task wherein we have to illustrate the daily
@@ -41,11 +43,7 @@ wherein
 
 <div style="margin-left: 35px">$c$: cumulative</div>
 
-in relation to <span class="tooltip">SARS-CoV-2<span class="tooltiptext">Severe Acute Respiratory Syndrome Coronavirus 2</span></span> infections in the states of the U.S.A..  [In well managed settings, the time varying gradients of the ensuing curves, and the forecasts of such curves, could be quite helpful.]
-
-<br>
-
-We might opt for 2 graph data sources
+in relation to <span class="tooltip">SARS-CoV-2<span class="tooltiptext">Severe Acute Respiratory Syndrome Coronavirus 2</span></span> infections in the states & territories of the United States; in well managed settings, the time varying gradients of the ensuing curves, and the forecasts of such curves, could be quite helpful.  We might **opt for 2 graph data sources**
 
 <ul style="margin-left: 35px">
   <li><a href="https://raw.githubusercontent.com/briefings/sars/master/fundamentals/atlantic/warehouse/capita.json" target="\_blank">capita.json</a> A source that summarises each day's rate values per state.</li>
