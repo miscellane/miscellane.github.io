@@ -11,7 +11,5 @@ custom_css:
 # Introductory Notes
 {: .fs-9 }
 
-<br>
-
-Miscellaneous Reusable Tools
+Miscellaneous Tools
 {: .fs-6 .fw-300 }
