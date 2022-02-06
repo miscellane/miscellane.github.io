@@ -109,7 +109,7 @@ $r_{_{l}} = \sum_{_{l}} r_{_{ag, s, l}}$
 </p>
 
 <p style="margin-left:35px">
-$r_{_{ag, s, l}} = 100,000 \times \frac{d_{ag, s, l}}{p_{ag, s, l}}$
+$r_{_{ag, s, l}} = 100000 \times \Large{ \frac{d_{_{ag, s, l}}}{p_{_{ag, s, l}}} }$
 </p>
 
 <br>
@@ -166,6 +166,7 @@ Thus far:
 
 #### **Indices of Multiple Deprivation (IMD)**
 
+
 <table style="width: 55%; font-size: 65%; text-align: left;">
     <colgroup>
         <col span="1" style="width: 10%;">
@@ -188,10 +189,46 @@ Thus far:
     </tr>
     <tr>
         <td>domains</td>
+        <td>Income Rank (22.5%); Employment Rank (22.5%); Education, Skills and Training Rank (13.5%); Health Deprivation and Disability Rank (13.5%); Crime Rank (9.3%); Barriers to Housing and Services Rank (9.3%); Living Environment Rank (9.3%)</td>
+    </tr>
+    <tr>
+        <td>rank note</td>
+        <td>1 is most deprived</td>
+    </tr>
+    <tr>
+        <td>comment</td>
+        <td>The values within the parentheses are the ONS weights for the overarching IMD</td>
+    </tr>
+</table>
+
+<br>
+
+<table style="width: 55%; font-size: 65%; text-align: left;">
+    <colgroup>
+        <col span="1" style="width: 10%;">
+        <col span="1" style="width: 45%;">
+    </colgroup>
+    <thead>
+        <tr><th></th><th>description</th></tr>
+    </thead>
+    <tr>
+        <td>variable</td>
+        <td>IMD</td>
+    </tr>
+    <tr>
+        <td>granularity/by</td>
+        <td>LSOA</td>
+    </tr>
+    <tr>
+        <td>latest</td>
+        <td>2019</td>
+    </tr>
+    <tr>
+        <td>sub-domains</td>
         <td>Education, Skills and Training Rank [Children and Young People Sub-domain Rank, Adult Skills Sub-domain Rank]; Barriers to Housing and Services Rank [Geographical Barriers Sub-domain Rank, Wider Barriers Sub-domain Rank]; Living Environment Rank [Indoors Sub-domain Rank, Outdoors Sub-domain Rank]</td>
     </tr>
     <tr>
-        <td>ranking note</td>
+        <td>rank note</td>
         <td>1 is most deprived</td>
     </tr>
 </table>
