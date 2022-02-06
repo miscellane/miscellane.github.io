@@ -102,7 +102,10 @@ Potentially, and per lower tier local authority:
 
 The age & sex adjusted mortality rates
 
+<p style="margin-left:35px">
 $r_{l} = \sum_{l} r_{ag, s, l}$
+</p>
+
 
 <br>
 
