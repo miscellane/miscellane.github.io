@@ -24,15 +24,15 @@ custom_js:
 
 <br>
 
-<h2>Research Strategy</h2>
+## Research Strategy
 
-<h3>Illustration</h3>
-
-<br>
+### Illustration
 
 <br>
 
-<h3>Validity</h3>
+<br>
+
+### Validity
 
 <table style="width: 55%; font-size: 65%; text-align: left;">
     <colgroup>
@@ -67,7 +67,9 @@ custom_js:
 
 <br>
 
-<h2>Data</h2>
+<br>
+
+## Data
 
 **Focus:** 
 > England, United Kingdom
@@ -77,7 +79,7 @@ custom_js:
 
 <br>
 
-<h3>Projection Variables</h3>
+### Projection Variables
 
 Potentially, and per lower tier local authority:
 
@@ -92,7 +94,7 @@ Potentially, and per lower tier local authority:
 
 <br>
 
-<h4>Mortality Rates</h4>
+#### Mortality Rates
 
 The age & sex adjusted mortality rates
 
@@ -128,11 +130,11 @@ $r_{l} = \sum_{l} r_{ag, s, l}$
 
 <br>
 
-<h4>DALY, YLL, YLD</h4>
+#### DALY, YLL, YLD
 
 <br>
 
-<h3>Potential Prognostic Factors</h3>
+### Potential Prognostic Factors
 
 Thus far:
 
@@ -141,7 +143,7 @@ Thus far:
 * Food Desert Score
 
 
-<h4>Indices of Multiple Deprivation (IMD)</h4>
+#### Indices of Multiple Deprivation (IMD)
 
 <table style="width: 55%; font-size: 65%; text-align: left;">
     <colgroup>
