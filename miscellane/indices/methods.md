@@ -75,6 +75,8 @@ An illustration of the research strategy
 
 ## Data: Projection Variables
 
+<br>
+
 **Focus:** 
 > England, United Kingdom
 
@@ -96,9 +98,13 @@ Potentially, and per lower tier local authority:
 
 #### **Mortality Rates**
 
+<br>
+
 The age & sex adjusted mortality rates
 
 $r_{l} = \sum_{l} r_{ag, s, l}$
+
+<br>
 
 <table style="width: 55%; font-size: 65%; text-align: left;">
     <colgroup>
@@ -139,6 +145,8 @@ $r_{l} = \sum_{l} r_{ag, s, l}$
 <br>
 
 ## Data: Potential Prognostic Factors
+
+<br>
 
 Thus far:
 
