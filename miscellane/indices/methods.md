@@ -26,13 +26,17 @@ custom_js:
 
 ## Research Strategy
 
-### Illustration
+<br>
+
+#### **Illustration**
+
+An illustration of the research strategy
 
 <br>
 
 <br>
 
-### Validity
+#### **Validity**
 
 <table style="width: 55%; font-size: 65%; text-align: left;">
     <colgroup>
@@ -69,17 +73,13 @@ custom_js:
 
 <br>
 
-## Data
+## Data: Projection Variables
 
 **Focus:** 
 > England, United Kingdom
 
 **Unit:** 
 > Lower Tier Local Authority
-
-<br>
-
-### Projection Variables
 
 Potentially, and per lower tier local authority:
 
@@ -94,7 +94,7 @@ Potentially, and per lower tier local authority:
 
 <br>
 
-#### Mortality Rates
+#### **Mortality Rates**
 
 The age & sex adjusted mortality rates
 
@@ -130,11 +130,15 @@ $r_{l} = \sum_{l} r_{ag, s, l}$
 
 <br>
 
-#### DALY, YLL, YLD
+#### **DALY, YLL, YLD**
 
 <br>
+<br>
 
-### Potential Prognostic Factors
+<br>
+<br>
+
+## Data: Potential Prognostic Factors
 
 Thus far:
 
@@ -142,8 +146,9 @@ Thus far:
 * [Access to Healthy Assets & Hazards (AHAH)](https://data.cdrc.ac.uk/dataset/access-healthy-assets-hazards-ahah)
 * Food Desert Score
 
+<br>
 
-#### Indices of Multiple Deprivation (IMD)
+#### **Indices of Multiple Deprivation (IMD)**
 
 <table style="width: 55%; font-size: 65%; text-align: left;">
     <colgroup>
