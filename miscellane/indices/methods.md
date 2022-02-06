@@ -109,7 +109,7 @@ $r_{_{l}} = \sum_{_{l}} r_{_{ag, s, l}}$
 </p>
 
 <p style="margin-left:35px">
-$r_{_{ag, s, l}} = 100,000 \times \frac{d_{ag, s, l}{p_{ag, s, l}}$
+$r_{_{ag, s, l}} = 100,000 \times \frac{d_{ag, s, l}}{p_{ag, s, l}}$
 </p>
 
 <br>
