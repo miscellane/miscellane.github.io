@@ -24,7 +24,7 @@ custom_js:
 
 <br>
 
-<h2>References</h2>
+## References
 
 * [The Global Burden of Disease Study 2019](https://www.thelancet.com/journals/lancet/issue/vol396no10258/PIIS0140-6736(20)X0042-0)
 * [The Global Burden of Disease Study 2010](https://www.thelancet.com/journals/lancet/issue/vol380no9859/PIIS0140-6736(12)X6053-7)  
