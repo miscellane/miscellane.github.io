@@ -40,9 +40,9 @@ An illustration of the research strategy
 
 <table style="width: 55%; font-size: 65%; text-align: left;">
     <colgroup>
-        <col span="1" style="width: 10%;">
+        <col span="1" style="width: 5%;">
         <col span="1" style="width: 20%;">
-        <col span="1" style="width: 25%;">
+        <col span="1" style="width: 35%;">
     </colgroup>
     <thead>
         <tr><th>validity</th><th>focus</th><th>threats & mitigations of</th></tr>
@@ -83,6 +83,8 @@ An illustration of the research strategy
 **Unit:** 
 > Lower Tier Local Authority
 
+<br>
+
 Potentially, and per lower tier local authority:
 
 * age & sex adjusted mortality rates [per 100,000 of population]
@@ -100,12 +102,15 @@ Potentially, and per lower tier local authority:
 
 <br>
 
-The age & sex adjusted mortality rates
+Nomis provides the LTLA death numbers per chronic disease per year.  Hence, the project has to calculate each year's age & sex adjusted mortality rates per chronic disease per year.
 
 <p style="margin-left:35px">
-$r_{l} = \sum_{l} r_{ag, s, l}$
+$r_{_{l}} = \sum_{_{l}} r_{_{ag, s, l}}$
 </p>
 
+<p style="margin-left:35px">
+$r_{_{ag, s, l}} = 100,000 \times \frac{d_{ag, s, l}{p_{ag, s, l}}$
+</p>
 
 <br>
 
