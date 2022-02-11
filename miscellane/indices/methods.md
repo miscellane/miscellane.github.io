@@ -24,40 +24,6 @@ custom_js:
 
 <br>
 
-## Research Strategy
-
-
-<br>
-
-The research strategy is
-
-<br>
-
-#### **Illustration**
-
-An illustration of the research strategy
-
-<br>
-
-<br>
-
-#### **Validity**
-
-
-<br>
-<br>
-
-## Data: Outcomes
-
-
-<br>
-<br>
-
-
-## Data: Projection Variables
-
-<br>
-
 **Focus:** 
 > England, United Kingdom
 
@@ -65,6 +31,61 @@ An illustration of the research strategy
 > Lower Tier Local Authority
 
 <br>
+
+## Dependent Variables
+
+The dependent variable will be annual prevalence rate.
+
+<table style="width: 55%; font-size: 65%; text-align: left;">
+    <colgroup>
+        <col span="1" style="width: 10%;">
+        <col span="1" style="width: 45%;">
+    </colgroup>
+    <thead>
+        <tr><th>item</th><th>value/element</th></tr>
+    </thead>
+    <tr>
+        <td>chronic disease code</td>
+        <td>International Classification of Diseases,Tenth Revision (ICD-10)</td>
+    </tr>
+    <tr>
+        <td>chronic disease name</td>
+        <td>Malignant neoplasms<br>Diabetes mellitus<br>Obesity and other hyperalimentation<br>Mental and 
+            behavioural disorders due to psychoactive substance use<br>Hypertensive diseases<br>Ischaemic heart 
+            diseases<br>Chronic lower respiratory diseases<br>Diseases of liver<br>Renal failure</td>
+    </tr>
+    <tr>
+        <td>catchment area</td>
+        <td>lower tier local authority or general practice</td>
+    </tr>
+    <tr>
+        <td>period</td>
+        <td>2004, ..., 2020</td>
+    </tr>
+    <tr>
+        <td>sex</td>
+        <td>sex</td>
+    </tr>
+    <tr>
+        <td>age group</td>
+        <td><i>0 - 4, 5 - 9, 10 - 14, ..., 85 - 89, 90+</i></td>
+    </tr>
+    <tr>
+        <td>measures</td>
+        <td>number of diagnosed individuals</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>population</td>
+    </tr>
+</table>
+
+<br>
+<br>
+
+
+## Independent Variables
+
 
 Potentially, and per lower tier local authority:
 
@@ -131,18 +152,6 @@ $r_{_{ag, s, l}} = 100000 \times \Large{ \frac{d_{_{ag, s, l}}}{p_{_{ag, s, l}}}
 <br>
 
 <br>
-<br>
-
-## Data: Potential Prognostic Factors
-
-<br>
-
-Thus far:
-
-* <a href="https://www.gov.uk/government/statistics/english-indices-of-deprivation-2019" target="_blank">The ONS Indices of Multiple Deprivation</a>
-* [Access to Healthy Assets & Hazards (AHAH)](https://data.cdrc.ac.uk/dataset/access-healthy-assets-hazards-ahah)
-* Food Desert Score
-
 <br>
 
 #### **Indices of Multiple Deprivation (IMD)**
