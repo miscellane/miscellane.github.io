@@ -24,6 +24,10 @@ custom_js:
 
 <br>
 
+Resources courtesy of the <a href='https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/labourproductivity/bulletins/labourproductivity/octobertodecember2019' target='_blank'>Office for National Statistics</a>
+
+<br>
+
 ## Life Expectancy
 
 <br>
