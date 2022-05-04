@@ -28,7 +28,7 @@ custom_js:
 
 <br>
 
-<img src = 'https://github.com/miscellane/miscellane.github.io/raw/master/assets/images/evaluation/lifeExpectancy.png' alt = 'life expectancy' style = 'width:60%; height:60%; text-align: center;'>
+<img src = 'https://github.com/miscellane/miscellane.github.io/raw/master/assets/images/evaluation/lifeExpectancy.png' alt = 'life expectancy' style = 'width:80%; height:80%; text-align: center;'>
 
 <br>
 <br>
@@ -37,7 +37,7 @@ custom_js:
 
 <br>
 
-<img src = 'https://github.com/miscellane/miscellane.github.io/raw/master/assets/images/evaluation/productivity.png' alt = 'life expectancy' style = 'width:60%; height:60%; text-align: center;'>
+<img src = 'https://github.com/miscellane/miscellane.github.io/raw/master/assets/images/evaluation/productivity.png' alt = 'life expectancy' style = 'width:80%; height:80%; text-align: center;'>
 
 <br>
 <br>
