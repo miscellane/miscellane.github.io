@@ -28,7 +28,7 @@ custom_js:
 
 <br>
 
-<img src = 'https://github.com/miscellane/miscellane.github.io/raw/master/assets/images/evaluation/lifeExpectancy.png' alt = 'life expectancy' style = 'width:60%; height:60%;'>
+<img src = 'https://github.com/miscellane/miscellane.github.io/raw/master/assets/images/evaluation/lifeExpectancy.png' alt = 'life expectancy' style = 'width:60%; height:60%; align:middle'>
 
 <br>
 <br>
@@ -37,7 +37,7 @@ custom_js:
 
 <br>
 
-<iframe height = "474px" width = "100%" src = "https://www.ons.gov.uk/visualisations/dvc787/oph/index.html"></iframe>
+<img src = 'https://github.com/miscellane/miscellane.github.io/raw/master/assets/images/evaluation/productivity.png' alt = 'life expectancy' style = 'width:60%; height:60%; align:middle'>
 
 <br>
 <br>
