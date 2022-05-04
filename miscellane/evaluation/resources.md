@@ -26,11 +26,16 @@ custom_js:
 
 ## Life Expectancy
 
-<img src = 'assets/images/evaluation/lifeExpectance.png' alt = 'life expectancy' style = 'width:60%; height:60%;'>
+<br>
 
+<img src = 'https://github.com/miscellane/miscellane.github.io/raw/master/assets/images/evaluation/lifeExpectancy.png' alt = 'life expectancy' style = 'width:60%; height:60%;'>
+
+<br>
 <br>
 
 ## GDP: Output/Hour
+
+<br>
 
 <iframe height = "474px" width = "100%" src = "https://www.ons.gov.uk/visualisations/dvc787/oph/index.html"></iframe>
 
